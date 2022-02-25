@@ -12,6 +12,7 @@ const HomePage = () => {
           <IntroCard />
         </Col>
       </Row>
+      <br />
       <Row>
         <Col>
           <ProjectsCard />

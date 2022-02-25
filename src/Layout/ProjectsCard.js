@@ -6,20 +6,23 @@ import { CSharpApp, PythonApp, ReactApp } from "../Components/Home/Projects";
 const ProjectsCard = () => {
   return (
     <Container fluid>
-      <Card.Header as='h3'>Projects</Card.Header>
-      <Row xs={1} md={3}>
-        <Col>
-          <ReactApp />
-        </Col>
-        <Col>
-          <PythonApp />
-        </Col>
-        <Col>
-          <CSharpApp />
-        </Col>
-      </Row>
+      <Card>
+        <Card.Header as="h3">Projects</Card.Header>
+        <Row xs={1} md={3}>
+          <Col>
+            <ReactApp />
+          </Col>
+          <Col>
+            <PythonApp />
+          </Col>
+          <Col>
+            <CSharpApp />
+          </Col>
+        </Row>
+      </Card>
+      <br />
     </Container>
   );
-}
+};
 
-export default ProjectsCard
+export default ProjectsCard;

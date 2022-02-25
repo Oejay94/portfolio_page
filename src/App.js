@@ -1,11 +1,21 @@
+import React from 'react';
+import { Routes, Route } from "react-router-dom";
 import './App.css';
 
 import HomePage from './Pages/homePage';
+import Header from './Layout/Header';
+import NavBar from './Layout/NavBar';
+import Footer from './Layout/Footer';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <HomePage />
+      <NavBar />
+      <Header />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+      </Routes>
+      <Footer />
     </div>
   );
 }
