@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio_page/static/css/main.41457e3c.css",
+    "main.js": "/portfolio_page/static/js/main.dac298df.js",
+    "static/js/787.28a6522c.chunk.js": "/portfolio_page/static/js/787.28a6522c.chunk.js",
+    "static/media/headShot.jpeg": "/portfolio_page/static/media/headShot.fa4c2f4bc976af86e43c.jpeg",
+    "static/media/FEGraduationDaniel.jpeg": "/portfolio_page/static/media/FEGraduationDaniel.e41b2768f1d383c62bc3.jpeg",
+    "static/media/FEGraduationChoc.jpeg": "/portfolio_page/static/media/FEGraduationChoc.4b9506b5533667f91cd6.jpeg",
+    "static/media/bootstrap-icons.woff?": "/portfolio_page/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/FrontEndCert.jpeg": "/portfolio_page/static/media/FrontEndCert.10dbadd603f23ef9aeeb.jpeg",
+    "static/media/FullStackCertification.png": "/portfolio_page/static/media/FullStackCertification.d0f1642f6593642df631.png",
+    "static/media/bootstrap-icons.woff2?": "/portfolio_page/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/portfolio_page/index.html",
+    "main.41457e3c.css.map": "/portfolio_page/static/css/main.41457e3c.css.map",
+    "main.dac298df.js.map": "/portfolio_page/static/js/main.dac298df.js.map",
+    "787.28a6522c.chunk.js.map": "/portfolio_page/static/js/787.28a6522c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41457e3c.css",
+    "static/js/main.dac298df.js"
+  ]
+}
