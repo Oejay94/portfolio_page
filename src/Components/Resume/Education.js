@@ -13,9 +13,9 @@ const Education = () => {
             <p>Graduation Date - 04/2020</p>
           </Card.Text>
           <Card.Text>
-            <h5>Bachelor of Science in Computer Science (In Progress)</h5>
-            <p>Southern New Hampshire University - Manchester, New Hampshire</p>
-            <p>Graduation Date - TBD</p>
+            <h5>Bachelor of Science in Computer Science</h5>
+            <p>Southern New Hampshire University - Online</p>
+            <p>Graduation Date - In Progress</p>
           </Card.Text>
         </Card.Body>
       </Card>
