@@ -4,26 +4,26 @@ import { Card } from "react-bootstrap";
 const CSharpApp = () => {
   return (
     <Card>
-      <Card.Header as="h3">C# App</Card.Header>
-      <i className="bi bi-calculator-fill" style={{fontSize:'70px'}}></i>
+      <Card.Header as="h3">React App</Card.Header>
+      <i className="bi bi-cloud-sun-fill" style={{ fontSize: "70px" }}></i>
       <Card.Title>
         <a
-          href="https://github.com/Oejay94/Console_Calculator"
+          href="https://oejay94.github.io/react-weather-app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Console Calculator
+          Weather App
         </a>
       </Card.Title>
     </Card>
   );
-}
+};
 
 const PythonApp = () => {
   return (
     <Card>
       <Card.Header as="h3">Python App</Card.Header>
-      <i className="bi bi-folder-fill" style={{fontSize:'70px'}}></i>
+      <i className="bi bi-folder-fill" style={{ fontSize: "70px" }}></i>
       <Card.Title>
         <a
           href="https://github.com/Oejay94/dirwatcher"
@@ -35,13 +35,13 @@ const PythonApp = () => {
       </Card.Title>
     </Card>
   );
-}
+};
 
 const ReactApp = () => {
   return (
     <Card>
       <Card.Header as="h3">React App</Card.Header>
-      <i className="bi bi-list-check" style={{fontSize:'70px'}}></i>
+      <i className="bi bi-list-check" style={{ fontSize: "70px" }}></i>
       <Card.Title>
         <a
           href="https://oejay94.github.io/todo-app-react/"
@@ -53,6 +53,6 @@ const ReactApp = () => {
       </Card.Title>
     </Card>
   );
-}
+};
 
-export {CSharpApp, PythonApp, ReactApp };
+export { CSharpApp, PythonApp, ReactApp };
